@@ -1,62 +1,62 @@
 [
    {
       "id": "Error building request",
-      "translation": "Error building request"
+      "translation": "Error construyendo pedido"
    },
    {
       "id": "Error dumping request\n{{.Err}}\n",
-      "translation": "Error dumping request\n{{.Err}}\n"
+      "translation": "Error escribiendo pedido\n{{.Err}}\n"
    },
    {
       "id": "Error dumping response\n{{.Err}}\n",
-      "translation": "Error dumping response\n{{.Err}}\n"
+      "translation": "Error escribiendo respuesta\n{{.Err}}\n"
    },
    {
       "id": "Error parsing JSON",
-      "translation": "Error parsing JSON"
+      "translation": "Error interpretando JSON"
    },
    {
       "id": "Error performing request",
-      "translation": "Error performing request"
+      "translation": "Error realizando pedido"
    },
    {
       "id": "Error reading response",
-      "translation": "Error reading response"
+      "translation": "Error leyendo respuesta"
    },
    {
       "id": "Invalid JSON response from server",
-      "translation": "Invalid JSON response from server"
+      "translation": "Respuesta JSON del servidor inválida"
    },
    {
       "id": "Invalid async response from server",
-      "translation": "Invalid async response from server"
+      "translation": "Respuesta async del servidor inválida"
    },
    {
       "id": "REQUEST:",
-      "translation": "REQUEST:"
+      "translation": "PEDIDO:"
    },
    {
       "id": "RESPONSE:",
-      "translation": "RESPONSE:"
+      "translation": "RESPUESTA:"
    },
    {
       "id": "[MULTIPART/FORM-DATA CONTENT HIDDEN]",
-      "translation": "[MULTIPART/FORM-DATA CONTENT HIDDEN]"
+      "translation": "[CONTENIDO MULTIPART/FORM-DATA OCULTADO]"
    },
    {
       "id": "[PRIVATE DATA HIDDEN]",
-      "translation": "[PRIVATE DATA HIDDEN]"
+      "translation": "[DATOS PRIVADOS OCULTADOS]"
    },
    {
       "id": "not valid for the requested host",
-      "translation": "not valid for the requested host"
+      "translation": "no válido para el servidor seleccionado"
    },
    {
       "id": "stopped after 1 redirect",
-      "translation": "stopped after 1 redirect"
+      "translation": "detenido luego de una redirección"
    },
    {
       "id": "unknown authority",
-      "translation": "unknown authority"
+      "translation": "autoridad desconocida"
    }
 ]

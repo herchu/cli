@@ -1,19 +1,19 @@
 [
    {
       "id": "No API endpoint targeted. Use '{{.LoginTip}}' or '{{.APITip}}' to target an endpoint.",
-      "translation": "No API endpoint targeted. Use '{{.LoginTip}}' or '{{.APITip}}' to target an endpoint."
+      "translation": "No se ha apuntado a una API . Use '{{.LoginTip}}' o '{{.APITip}}' para apuntar a una."
    },
    {
       "id": "No org and space targeted, use '{{.Command}}' to target an org and space",
-      "translation": "No org and space targeted, use '{{.Command}}' to target an org and space"
+      "translation": "No hay organización y espacio de destino, use '{{.Command}}' para apuntar a una org y un espacio"
    },
    {
       "id": "No org targeted, use '{{.Command}}' to target an org.",
-      "translation": "No org targeted, use '{{.Command}}' to target an org."
+      "translation": "No hay una organización de destino, use '{{.Command}}' para apuntar a una."
    },
    {
       "id": "No space targeted, use '{{.Command}}' to target a space",
-      "translation": "No space targeted, use '{{.Command}}' to target a space"
+      "translation": "No hay un espacio de destino, '{{.Command}}' para apuntar a uno"
    },
    {
       "id": "{{.CFName}} api",

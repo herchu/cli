@@ -1,11 +1,11 @@
 [
    {
       "id": "API endpoint:",
-      "translation": "API endpoint:"
+      "translation": "Llamada API:"
    },
    {
       "id": "{{.ApiEndpoint}} (API version: {{.ApiVersionString}})",
-      "translation": "{{.ApiEndpoint}} (API version: {{.ApiVersionString}})"
+      "translation": "{{.ApiEndpoint}} (Versión de API: {{.ApiVersionString}})"
    },
    {
       "id": "OK",
@@ -13,11 +13,11 @@
    },
    {
       "id": "Incorrect Usage.\n",
-      "translation": "Incorrect Usage.\n"
+      "translation": "Uso Incorrecto.\n"
    },
    {
       "id": "Delete cancelled",
-      "translation": "Delete cancelled"
+      "translation": "Eliminación cancelada"
    },
    {
       "id": "yes",
@@ -25,27 +25,27 @@
    },
    {
       "id": "No org or space targeted, use '{{.CFTargetCommand}}'",
-      "translation": "No org or space targeted, use '{{.CFTargetCommand}}'"
+      "translation": "No hay una organización o espacio de destino, use '{{.CFTargetCommand}}'"
    },
    {
       "id": "User:",
-      "translation": "User:"
+      "translation": "Usuario:"
    },
    {
       "id": "Really delete the {{.ModelType}} {{.ModelName}} and everything associated with it?",
-      "translation": "Really delete the {{.ModelType}} {{.ModelName}} and everything associated with it?"
+      "translation": "Realmente borrar {{.ModelType}} {{.ModelName}} y todo lo que esté asociado a él?"
    },
    {
       "id": "Not logged in. Use '{{.CFLoginCommand}}' to log in.",
-      "translation": "Not logged in. Use '{{.CFLoginCommand}}' to log in."
+      "translation": "No ha ingresado. Use '{{.CFLoginCommand}}' para ingresar."
    },
    {
       "id": "failed turning off console echo for password entry:\n{{.ErrorDescription}}",
-      "translation": "failed turning off console echo for password entry:\n{{.ErrorDescription}}"
+      "translation": "fallo apagando el eco a consola para entrada de contraseña:\n{{.ErrorDescription}}"
    },
    {
       "id": "No space targeted, use '{{.CFTargetCommand}}'",
-      "translation": "No space targeted, use '{{.CFTargetCommand}}'"
+      "translation": "No hay un espacio de destino, use '{{.CFTargetCommand}}'"
    },
    {
       "id": "Org:",
@@ -53,18 +53,18 @@
    },
    {
       "id": "Really delete the {{.ModelType}} {{.ModelName}}?",
-      "translation": "Really delete the {{.ModelType}} {{.ModelName}}?"
+      "translation": "Realmente borrar {{.ModelType}} {{.ModelName}}?"
    },
    {
       "id": "FAILED",
-      "translation": "FAILED"
+      "translation": "FALLO"
    },
    {
       "id": "No org targeted, use '{{.CFTargetCommand}}'",
-      "translation": "No org targeted, use '{{.CFTargetCommand}}'"
+      "translation": "No hay una organización de destino, use '{{.CFTargetCommand}}'"
    },
    {
       "id": "Space:",
-      "translation": "Space:"
+      "translation": "Espacio:"
    }
 ]

@@ -1,22 +1,22 @@
 [
    {
       "id": "running",
-      "translation": "running"
+      "translation": "corriendo"
    },
    {
       "id": "stopped",
-      "translation": "stopped"
+      "translation": "detenido"
    },
    {
       "id": "crashing",
-      "translation": "crashing"
+      "translation": "fallando"
    },
    {
       "id": "down",
-      "translation": "down"
+      "translation": "parado"
    },
    {
       "id": "starting",
-      "translation": "starting"
+      "translation": "arrancando"
    }
 ]
