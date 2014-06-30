@@ -1,11 +1,11 @@
 [
    {
       "id": "ADVANCED",
-      "translation": "ADVANCED"
+      "translation": "AVANZADO"
    },
    {
       "id": "APPS",
-      "translation": "APPS"
+      "translation": "APLICACIONES"
    },
    {
       "id": "BUILDPACKS",
@@ -13,47 +13,47 @@
    },
    {
       "id": "DOMAINS",
-      "translation": "DOMAINS"
+      "translation": "DOMINIOS"
    },
    {
       "id": "GETTING STARTED",
-      "translation": "GETTING STARTED"
+      "translation": "COMENZANDO"
    },
    {
       "id": "ORG ADMIN",
-      "translation": "ORG ADMIN"
+      "translation": "ADMIN. DE ORG."
    },
    {
       "id": "ORGS",
-      "translation": "ORGS"
+      "translation": "ORGANIZACIONES"
    },
    {
       "id": "ROUTES",
-      "translation": "ROUTES"
+      "translation": "RUTAS"
    },
    {
       "id": "SERVICE ADMIN",
-      "translation": "SERVICE ADMIN"
+      "translation": "ADMIN. DE SERVICIO"
    },
    {
       "id": "SERVICES",
-      "translation": "SERVICES"
+      "translation": "SERVICIOS"
    },
    {
       "id": "SPACES",
-      "translation": "SPACES"
+      "translation": "ESPACIOS"
    },
    {
       "id": "Show help",
-      "translation": "Show help"
+      "translation": "Mostrar ayuda"
    },
    {
       "id": "USER ADMIN",
-      "translation": "USER ADMIN"
+      "translation": "ADMIN. DE USUARIOS"
    },
    {
       "id": "VERSION:",
-      "translation": "VERSION:"
+      "translation": "VERSIÓN:"
    },
    {
       "id": "{{.Command}} help [COMMAND]",
@@ -61,62 +61,62 @@
    },
    {
       "id": "Do not colorize output",
-      "translation": "Do not colorize output"
+      "translation": "No colorear la salida"
    },
    {
       "id": "Print API request diagnostics to stdout",
-      "translation": "Print API request diagnostics to stdout"
+      "translation": "Imprimir diagnósticos de llamadas a API a stdout"
    },
    {
       "id": "NAME:",
-      "translation": "NAME:"
+      "translation": "NOMBRE:"
    },
    {
       "id": "USAGE:",
-      "translation": "USAGE:"
+      "translation": "USO:"
    },
    {
       "id": "GLOBAL OPTIONS",
-      "translation": "GLOBAL OPTIONS"
+      "translation": "OPCIONES GLOBALES"
    },
    {
       "id": "[environment variables]",
-      "translation": "[environment variables]"
+      "translation": "[variables de entorno]"
    },
    {
       "id": "[global options] command [arguments...] [command options]",
-      "translation": "[global options] command [arguments...] [command options]"
+      "translation": "[opciones globales] comando [argumentos...] [opciones del comando]"
    },
    {
       "id": "ENVIRONMENT VARIABLES",
-      "translation": "ENVIRONMENT VARIABLES"
+      "translation": "VARIABLES DE ENTORNO"
    },
    {
       "id": "Override path to default config directory",
-      "translation": "Override path to default config directory"
+      "translation": "Sobreescribe ruta al archivo de configuración por defecto"
    },
    {
       "id": "Print the version",
-      "translation": "Print the version"
+      "translation": "Imprimir la versión"
    },
    {
       "id": "BUILD TIME:",
-      "translation": "BUILD TIME:"
+      "translation": "TIEMPO DE CONSTRUCCIÓN:"
    },
    {
       "id": "Max wait time for app instance startup, in minutes",
-      "translation": "Max wait time for app instance startup, in minutes"
+      "translation": "Máximo tiempo de espera para arrancar instancia, en minutos"
    },
    {
       "id": "Append API request diagnostics to a log file",
-      "translation": "Append API request diagnostics to a log file"
+      "translation": "Agrega diagnósticos de llamadas a API a un archivo de bitácora"
    },
    {
       "id": "Enable HTTP proxying for API requests",
-      "translation": "Enable HTTP proxying for API requests"
+      "translation": "Activa HTTP proxying para llamadas a API"
    },
    {
       "id": "Max wait time for buildpack staging, in minutes",
-      "translation": "Max wait time for buildpack staging, in minutes"
+      "translation": "Máximo tiempo de espera para copia de buildpack, en minutos"
    }
 ]

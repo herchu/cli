@@ -1,66 +1,66 @@
 [
    {
       "id": "Error finding manifest",
-      "translation": "Error finding manifest"
+      "translation": "Error buscando manifiesto"
    },
    {
       "id": "Expected application to be a list of key/value pairs\nError occurred in manifest near:\n'{{.YmlSnippet}}'",
-      "translation": "Expected application to be a list of key/value pairs\nError occurred in manifest near:\n'{{.YmlSnippet}}'"
+      "translation": "Se espera que 'application' sea una lista de pares clave/valor\nOcurrió un error en manifiesto cerca de:\n'{{.YmlSnippet}}'"
    },
    {
       "id": "Expected applications to be a list",
-      "translation": "Expected applications to be a list"
+      "translation": "Se espera que 'applications' sea una lista"
    },
    {
       "id": "Expected environment variable {{.PropertyName}} to have a string value, but it was a {{.PropertyType}}.",
-      "translation": "Expected environment variable {{.PropertyName}} to have a string value, but it was a {{.PropertyType}}."
+      "translation": "Se espera que la variable de entorno {{.PropertyName}} contenga un valor de cadena, pero era un '{{.PropertyType}}'."
    },
    {
       "id": "Expected {{.Name}} to be a set of key =\u003e value, but it was a {{.Type}}.",
-      "translation": "Expected {{.Name}} to be a set of key =\u003e value, but it was a {{.Type}}."
+      "translation": "Se espera que {{.Name}} sea una lista de pares clave/valor pero era un '{{.Type}}'."
    },
    {
       "id": "Expected {{.PropertyName}} to be a boolean.",
-      "translation": "Expected {{.PropertyName}} to be a boolean."
+      "translation": "Se espera que {{.PropertyName}} sea un valor booleano."
    },
    {
       "id": "Expected {{.PropertyName}} to be a list of strings.",
-      "translation": "Expected {{.PropertyName}} to be a list of strings."
+      "translation": "Se espera que {{.PropertyName}} sea una lista de cadenas."
    },
    {
       "id": "Expected {{.PropertyName}} to be a number, but it was a {{.PropertyType}}.",
-      "translation": "Expected {{.PropertyName}} to be a number, but it was a {{.PropertyType}}."
+      "translation": "Se espera que {{.PropertyName}} sea un número, pero era un '{{.PropertyType}}'."
    },
    {
       "id": "Invalid manifest. Expected a map",
-      "translation": "Invalid manifest. Expected a map"
+      "translation": "Manifiesto inválido. Se esperaba un mapa"
    },
    {
       "id": "Property '{{.PropertyName}}' found in manifest. This feature is no longer supported. Please remove it and try again.",
-      "translation": "Property '{{.PropertyName}}' found in manifest. This feature is no longer supported. Please remove it and try again."
+      "translation": "Se encontró la propiedad '{{.PropertyName}}' en el manifiesto. Esta función ya no se soporta. Por favor elimínela e intente nuevamente."
    },
    {
       "id": "Unexpected value for {{.PropertyName}} :\n{{.Error}}",
-      "translation": "Unexpected value for {{.PropertyName}} :\n{{.Error}}"
+      "translation": "Valor no esperado para  {{.PropertyName}} :\n{{.Error}}"
    },
    {
       "id": "env var '{{.PropertyName}}' should not be null",
-      "translation": "env var '{{.PropertyName}}' should not be null"
+      "translation": "la variable de entorno '{{.PropertyName}}' no debería ser nula"
    },
    {
       "id": "invalid inherit path in manifest",
-      "translation": "invalid inherit path in manifest"
+      "translation": "camino de herencia inválido en el manifiesto"
    },
    {
       "id": "{{.PropertyName}} must be a string or null value",
-      "translation": "{{.PropertyName}} must be a string or null value"
+      "translation": "{{.PropertyName}} debe ser una cadena o valor nulo"
    },
    {
       "id": "{{.PropertyName}} must be a string value",
-      "translation": "{{.PropertyName}} must be a string value"
+      "translation": "{{.PropertyName}} debe ser una cadena"
    },
    {
       "id": "{{.PropertyName}} should not be null",
-      "translation": "{{.PropertyName}} should not be null"
+      "translation": "{{.PropertyName}} no deberia ser nulo"
    }
 ]
